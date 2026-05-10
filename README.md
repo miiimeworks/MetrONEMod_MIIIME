@@ -10,6 +10,8 @@ This skin is an enhanced version of 'MetrONEMod v5' by BoiDeboi and the modified
 본 스킨은 BoiDeboi의 'MetrONEMod v5' 및 삼라만상님의 'MetrONEMod_v5+'를 기반으로 하여,  
 MIIIME가 디자인 요소와 사용자 인터페이스를 디벨롭한 버전입니다.
 
+<img width="1230" height="1498" alt="001" src="https://github.com/miiimeworks/MetrONEMod_MIIIME/blob/main/Preview/001.png" />
+
 ---
 
 ## Credits & Acknowledgments / 제작 및 출처
