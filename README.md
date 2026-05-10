@@ -1,5 +1,5 @@
 # MetrONEMod MIIIME for PotPlayer
-MetrONEModMIIIMESkin · 메트론모드 미메스킨
+MetrONEModMIIIME Skin · 메트론모드미메 스킨
 
 <br>
 <img width="559" height="136" alt="001" src="https://github.com/miiimeworks/M4T/blob/main/4bit_Enhanced/Id/Neon/4b_136_1_G.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
