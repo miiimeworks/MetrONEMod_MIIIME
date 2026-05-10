@@ -5,7 +5,8 @@ MetrONEModMIIIMESkin · MetrONE미메스킨
 <img width="559" height="136" alt="001" src="https://github.com/miiimeworks/M4T/blob/main/4bit_Enhanced/Id/Neon/4b_136_1_G.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
 <br>
 
-This skin is an enhanced version of 'MetrONEMod v5' by BoiDeboi and the modified version by Samramansang. It has been further developed by MIIIME to optimize the user interface and design elements for PotPlayer.
+This skin is an enhanced version of 'MetrONEMod v5' by BoiDeboi and the modified version by Samramansang.  
+It has been further developed by MIIIME to optimize the user interface and design elements for PotPlayer.
 
 본 스킨은 BoiDeboi의 'MetrONEMod v5' 및 삼라만상님의 'MetrONEMod_v5+'를 기반으로 하여,  
 MIIIME가 디자인 요소와 사용자 인터페이스를 디벨롭한 버전입니다.
