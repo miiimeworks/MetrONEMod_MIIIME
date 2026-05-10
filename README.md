@@ -28,7 +28,7 @@ https://cafe.daum.net/pot-tool/Morw/842
 ## Credits & Acknowledgments / 제작 및 출처
 
 * **Original Design :** BoiDeboi
-  - https://www.deviantart.com/boideboi/art/MetrONEMod-for-PotPlayer-Updated-398719308
+  - https://www.deviantart.com/boideboi
 * **Modified Version :** 삼라만상 (Samramansang)
   - https://cafe.daum.net/pot-tool/Morw/828
 * **Advanced Development :** MIIIME
