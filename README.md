@@ -12,6 +12,11 @@ It has been further developed by MIIIME to optimize the user interface and desig
 MIIIME가 디자인 요소와 사용자 인터페이스를 디벨롭한 버전입니다.
 
 <img width="850" height="371" alt="002" src="https://github.com/miiimeworks/MetrONEMod_MIIIME/blob/main/Preview/002.png" />
+
+<img width="850" height="327" alt="006" src="https://github.com/miiimeworks/MetrONEMod_MIIIME/blob/main/Preview/006.png" />
+<img width="402" height="90" alt="007" src="https://github.com/miiimeworks/MetrONEMod_MIIIME/blob/main/Preview/007.png" />
+<img width="322" height="66" alt="008" src="https://github.com/miiimeworks/MetrONEMod_MIIIME/blob/main/Preview/008.png" />
+
 <img width="480" height="204" alt="003" src="https://github.com/miiimeworks/MetrONEMod_MIIIME/blob/main/Preview/003.png" />
 <img width="480" height="204" alt="004" src="https://github.com/miiimeworks/MetrONEMod_MIIIME/blob/main/Preview/004.png" />
 <img width="850" height="371" alt="005" src="https://github.com/miiimeworks/MetrONEMod_MIIIME/blob/main/Preview/005.png" />
